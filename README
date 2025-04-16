@@ -1,0 +1,31 @@
+# 🦎 Caméléon Shell — *Adapt. Infiltrate. Disappear.*
+
+![Red Team Tool](https://img.shields.io/badge/Red--Team-Tool-critical?style=for-the-badge&logo=gnometerminal)
+![Stealth Mode](https://img.shields.io/badge/Stealth-Enabled-darkred?style=for-the-badge&logo=ninja)
+![Python](https://img.shields.io/badge/Built%20with-Python-blue?style=for-the-badge&logo=python)
+
+---
+
+Caméléon Shell is a stealthy, polymorphic reverse shell crafted for Red Team operations.  
+It adapts to its target environment, bypasses standard defenses, and provides stable access with minimal footprint.
+
+> 🔧 Modular · 🧠 Smart Evasion · 🔥 Offensive-ready
+
+---
+
+## 🚀 Features
+
+- 🦎 **Polymorphic Payloads** — randomized behavior, dynamic variables
+- 🧱 **Bypass-ready** — designed to evade firewalls & basic EDRs
+- 🛠 **Modular CLI** — plug custom payloads, encryption, or obfuscation
+- 🔁 **Persistent Mode** (optional)
+- 🔇 **Low Noise** — no suspicious dependencies or static strings
+
+---
+
+## 🛠 Installation
+
+```bash
+git clone https://github.com/Hackheart-tech/chameleon-shell.git
+cd chameleon-shell
+python3 caméléon.py
